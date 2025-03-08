@@ -15,19 +15,25 @@ Os exercícios implementados são:
 
 Siga os passos abaixo para executar o projeto em sua máquina:
 
+1️⃣ **Clone o repositório**
+Se ainda não tiver o repositório localmente, execute o comando:
 
-1️⃣ **Acesse a pasta do projeto**
+```bash
+https://github.com/Alefcps/teste_pratico_reactjs-main.git
+```
+
+2️⃣ **Acesse a pasta do projeto**
 
 ```bash
 cd teste_pratico_reactjs
 ```
- 2️⃣ **Instale as dependências**  
+3️⃣ **Instale as dependências**  
 O projeto utiliza **Yarn** para gerenciar pacotes. Para instalar as dependências, rode:
 
 ```bash
 yarn
 ```
- 3️⃣  **Execute o servidor de desenvolvimento**  
+4️⃣   **Execute o servidor de desenvolvimento**  
 Após instalar as dependências, inicie o projeto com:
 
 ```bash
